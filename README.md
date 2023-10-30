@@ -14,7 +14,7 @@ Ini sausnya tuan [Saus](https://github.com/Eosiner/test2)
 - Eosiner
 
 # Pembaharuan Terakhir
-10-9-2023
+10-30-2023
 
 # Catatan Penting
 hasil output akan berbeda beda sesuai nilai yang anda masukkan. gunakan nilai yang tepat agar hasil perhitungan menjadi valid
